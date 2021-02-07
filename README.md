@@ -49,7 +49,7 @@ After successfully completing this course you should be able to:
 
 # 3. Learning Materials
 
-- <Essential Genetics and Genomics 7th edition> by Daniel L. Hartl (Jones & Bartlett Learning)[Access via Korea University Library (You will need a login for your student account)](https://oca.korea.ac.kr/link.n2s?url=http%3A%2F%2Fsearch.ebscohost.com%2Flogin.aspx%3Fdirect%3Dtrue%26scope%3Dsite%26db%3Dnlebk%26db%3Dnlabk%26AN%3D1923641)
+- <Essential Genetics and Genomics 7th edition> by Daniel L. Hartl, Jones & Bartlett Learning [(Access via Korea University Library (You will need a login for your student account)](https://oca.korea.ac.kr/link.n2s?url=http%3A%2F%2Fsearch.ebscohost.com%2Flogin.aspx%3Fdirect%3Dtrue%26scope%3Dsite%26db%3Dnlebk%26db%3Dnlabk%26AN%3D1923641)
 
 
 # 4. Teaching & Learning Activities
@@ -61,11 +61,11 @@ After successfully completing this course you should be able to:
 
 ### Session 2. Human Heredity and Inheritance 
 
-[Session 2-1. Mendelian Genetics]
+[Session 2-1. Mendelian Genetics](https://docs.google.com/presentation/d/1tEW_04VI9SXdT6WLgStrNhzf6JkNj9Lq_gP85cXtCv0/edit?usp=sharing)
 
-[Session 2-2. Biometrical Genetics]
+[Session 2-2. Biometrical Genetics](https://docs.google.com/presentation/d/1u-e-ytC5tHonohRTwuHQXzwJbmqH0dFJn6edTV0QcHQ/edit?usp=sharing)
 
-[Session 2-3. Hardy Weinberg Equilibrium]
+[Session 2-3. Hardy Weinberg Equilibrium](https://docs.google.com/presentation/d/1o0hjI4So1NP1M0LkZ8h1TH9Sul3BhcqnuFNM08e5JoQ/edit?usp=sharing)
 
 [Session 2-4. Chromosome and Sex]
 
