@@ -1,11 +1,10 @@
 ## Genetics 
-BSMS 205, Spring
+BSMS205, Spring
 
 ## Instructor
 Joon-Yong An, PhD
 
 Assistant Professor of Human Genetics
-
 School of Biosystem and Biomedical Science, College of Health Science
 
 
@@ -48,71 +47,60 @@ After successfully completing this course you should be able to:
 8  Integrate the broad concepts of this discipline in the context of human genetics and develop an appreciation of how these advances are perceived by Society.
 
 
-# 3. Learning Resources
-No mandatory textbook for this lecture. Slides will include required reading materials for each session. Slides and materials will be posted on the Blackboard as these become available.
+# 3. Learning Materials
+
+- <Essential Genetics and Genomics 7th edition> by Daniel L. Hartl (Jones & Bartlett Learning)[Access via Korea University Library (You will need a login for your student account)](https://oca.korea.ac.kr/link.n2s?url=http%3A%2F%2Fsearch.ebscohost.com%2Flogin.aspx%3Fdirect%3Dtrue%26scope%3Dsite%26db%3Dnlebk%26db%3Dnlabk%26AN%3D1923641)
 
 
 # 4. Teaching & Learning Activities
-## 4.1 Learning Activities
+
 
 ### Session 1. Introduction 
 
-[Session 1. Introduction](https://docs.google.com/presentation/d/1vWXKGbpvWOzAxKGha6JTTdDtOX1AjT2WfIrXt9qvf3w/edit?usp=sharing)
+[Session 1. Introduction]
 
 ### Session 2. Human Heredity and Inheritance 
 
-[Session 2-1. Mendelian Genetics](https://docs.google.com/presentation/d/17C4Cv5-VJ46ZpDq6zU5KbT6hpG3zX5fDUdm6Gp04RsE/edit?usp=sharing)
+[Session 2-1. Mendelian Genetics]
 
-[Session 2-2. Biometrical Genetics](https://docs.google.com/presentation/d/1j89FJrnInVLMprmsK9Y0sBcA6fvIEnSFB5H6aOg00OM/edit?usp=sharing)
+[Session 2-2. Biometrical Genetics]
 
-[Session 2-3. Hardy Weinberg Equilibrium](https://docs.google.com/presentation/d/1rFYfU3rpPENQXFxkHsM0uXWKkS-lHjuSXo5w8Yr8lIQ/edit?usp=sharing)
+[Session 2-3. Hardy Weinberg Equilibrium]
 
-[Session 2-4. Chromosome and Sex](https://docs.google.com/presentation/d/1vDTuLMrLSjB1ppkhqRDeHuM0rv8J2dE2UEpua6pu6Eo/edit?usp=sharing)
+[Session 2-4. Chromosome and Sex]
 
-[Session 2-5. Gene](https://docs.google.com/presentation/d/1hANHa4eK6TnZVc4nOu3ZJHEiTo0o8ID7WzYLNIlaAZM/edit?usp=sharing)
+[Session 2-5. Gene]
 
-[Session 2-6. Heritability](https://docs.google.com/presentation/d/1SnTyzibAn29w7qyCKcza2Q0nCNlfvCHQWUodBCnjY74/edit?usp=sharing)
+[Session 2-6. Heritability]
 
 ### Session 3. Mutation and Population
 
-[Session 3-1. Mutation](https://docs.google.com/presentation/d/1-HXAbXKSBv8TrirsTwn9ZwRMki5TAau1f-t9EooMSkM/edit?usp=sharing)
+[Session 3-1. Mutation]
 
-[Session 3-2. Linkage disequilibrium and haplotype](https://docs.google.com/presentation/d/1N-5R2P2hjit9xpYqKYirOncV9de3Mw_36RV65AlQJ6Q/edit?usp=sharing)
+[Session 3-2. Linkage disequilibrium and haplotype]
 
-[Session 3-3. Population structure](https://docs.google.com/presentation/d/1jHj87Mjl715VpW0hjMsf8XgsR7N4p6gi_7F3v_SlN64/edit?usp=sharing)
+[Session 3-3. Population structure]
 
-[Session 3-4. Inbreeding](https://docs.google.com/presentation/d/1r9UFG45of9Eg9dJ6zFOFLpFy4YCYB-dVIRLDtDeSG1Y/edit?usp=sharing)
-
-
-### Mid term exam preparation
-
-Review Session 2 
-
-Review Session 3 
-
-Mid term exam 
-([questions](https://docs.google.com/document/d/1SBrnTt_cbxD_zVLHUZzfAIlW8CXLqAVrPU1nTLwpc9c/edit?usp=sharing),
-[format](https://docs.google.com/presentation/d/1fETf5FOBBD75fGQs66k9tDiZlaBbaL5zh_ph9FiyiEs/edit?usp=sharing), 
-[Results and feedbacks (5/7)](https://docs.google.com/presentation/d/179KHlQWEQ09umqCF8bV-bwHb_oQPhT8hni0Ydw4uQTc/edit?usp=sharing))
+[Session 3-4. Inbreeding]
 
 
 ### Session 4. Human Genome 
 
-[Session 4-1. Genome](https://docs.google.com/presentation/d/1qcB5lt9D6ctyiCPf8wX4w6YNu9lNfBGvSbCLYVD7hSI/edit?usp=sharing)
+[Session 4-1. Genome]
 
-[Session 4-2. Next generation sequencing](https://docs.google.com/presentation/d/12ioYn9M-IytQJCurEPWGMMA8XMQ3m7ns_UDgFMJISvI/edit?usp=sharing)
+[Session 4-2. Next generation sequencing]
 
-[Session 4-3. Data modality1](https://docs.google.com/presentation/d/1D3TENJ5M5oTzO6WY0vX4TSmV4rnmS7Ql2M6taMxpXDo/edit?usp=sharing)
+[Session 4-3. Data modality1]
 
-[Session 4-4. Data modality2](https://docs.google.com/presentation/d/1RBr8JdBAsXo1P2VdNuYITaRAZ2BBQouRnbV7LQN1ezo/edit?usp=sharing)
+[Session 4-4. Data modality2]
 
 ### Session 5. Genetics in human diseases 
 
-[Session 5-1. Genetic architecture](https://docs.google.com/presentation/d/1qAfNT0yZ3Snkb5zArz_1dgfp25zDMJo8il9qFeiUw2g/edit?usp=sharing)
+[Session 5-1. Genetic architecture]
 
-[Session 5-2. Genetic disorders](https://docs.google.com/presentation/d/1ScpY7icZct9p-FusROiC0Q-7tc81pO2XenQLJrRo5oA/edit?usp=sharing)
+[Session 5-2. Genetic disorders]
 
-[Session 5-3. Experimental design](https://docs.google.com/presentation/d/1n6r414HUejA0McChJC0ZmsZoH5DfHlWo5D_-Mdi-8yU/edit?usp=sharing)
+[Session 5-3. Experimental design]
 
 Session 5-4. Case study 1 & 2 
 
@@ -121,7 +109,7 @@ Session 5-4. Case study 1 & 2
 
 Review Session 4 & 5 
 
-Final exam [(questions)](https://docs.google.com/document/d/1VaCC9sKGd3oQkCU8B8rkPwLs3d4NG09EmVOuu99eE3I/edit?usp=sharing)
+Final exam [(questions)]
 
 
 # 5. Assignment
@@ -130,11 +118,5 @@ Final exam [(questions)](https://docs.google.com/document/d/1VaCC9sKGd3oQkCU8B8r
 
 This [link 'Writing, citing and submitting assignments'](https://web.library.uq.edu.au/research-tools-techniques/assignment-essentials/writing-citing-and-submitting-assignments) would be useful for your assignment preparation. Please have a read on the following sections - 1. Writing or creating assignments, 2. Plagiarism, 3. Referencing.
 
-# 6. Resources
 
-[Lecture Notes (English + Korean)](https://docs.google.com/document/d/1L_vF2S7xp4wI6u_rW6gPxWP09l99d7VbEEQm_R8GLgA/edit?usp=sharing)
-
-# 7. Misc.
-
-[오늘 뭐읽지?](http://www.piku.co.kr/w/8flMWN)
 
