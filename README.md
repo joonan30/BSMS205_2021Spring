@@ -67,7 +67,7 @@ After successfully completing this course you should be able to:
 
 [Session 2-3. Hardy Weinberg Equilibrium](https://docs.google.com/presentation/d/1o0hjI4So1NP1M0LkZ8h1TH9Sul3BhcqnuFNM08e5JoQ/edit?usp=sharing)
 
-[Session 2-4. Chromosome and Sex]
+[Session 2-4. Chromosome and Sex](https://docs.google.com/presentation/d/1Bql_RaWuhyA3-qxN7ptd1gxYHXrPTSNFMzIU36BqscA/edit?usp=sharing)
 
 [Session 2-5. Gene]
 
