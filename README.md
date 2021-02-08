@@ -71,7 +71,7 @@ After successfully completing this course you should be able to:
 
 [Session 2-5. Gene](https://docs.google.com/presentation/d/1tQ31wSuqBeagauwaHGDS1ofnN3vQeq3dSujRpfxsUr0/edit?usp=sharing)
 
-[Session 2-6. Heritability]
+[Session 2-6. Heritability](https://docs.google.com/presentation/d/1RbueXnChI6-qXs3VaRSWLjj26MSfIvVRmr1woR1f884/edit?usp=sharing)
 
 ### Session 3. Mutation and Population
 
