@@ -118,7 +118,7 @@ Final exam [(questions)]
 
 Mid term exam 
 ([questions](https://docs.google.com/document/d/1SBrnTt_cbxD_zVLHUZzfAIlW8CXLqAVrPU1nTLwpc9c/edit?usp=sharing),
-[format](https://docs.google.com/presentation/d/1fETf5FOBBD75fGQs66k9tDiZlaBbaL5zh_ph9FiyiEs/edit?usp=sharing), 
+[format](https://docs.google.com/presentation/d/1fETf5FOBBD75fGQs66k9tDiZlaBbaL5zh_ph9FiyiEs/edit?usp=sharing))
 
 Final exam [(questions)](https://docs.google.com/document/d/1VaCC9sKGd3oQkCU8B8rkPwLs3d4NG09EmVOuu99eE3I/edit?usp=sharing)
 
