@@ -79,7 +79,7 @@ After successfully completing this course you should be able to:
 
 [Session 3-2. Mutation Classification](https://docs.google.com/presentation/d/1LMk_7ShJuK04z_Erh-RhsWyib6Twxp1-CqEC_5EHhc0/edit?usp=sharing)
 
-[Session 3-3. Linkage disequilibrium and haplotype]
+[Session 3-3. Linkage disequilibrium and haplotype](https://docs.google.com/presentation/d/1aoMFtDiMFvVmTCkxcPRg9b4Wo_2ynQER9DGRKslsHlY/edit?usp=sharing)
 
 [Session 3-4. Population structure]
 
