@@ -49,8 +49,8 @@ After successfully completing this course you should be able to:
 
 # 3. Learning Materials
 
-- <Essential Genetics and Genomics 7th edition> by Daniel L. Hartl, Jones & Bartlett Learning [(Access via Korea University Library (You will need a login for your student account)](https://oca.korea.ac.kr/link.n2s?url=http%3A%2F%2Fsearch.ebscohost.com%2Flogin.aspx%3Fdirect%3Dtrue%26scope%3Dsite%26db%3Dnlebk%26db%3Dnlabk%26AN%3D1923641)
-
+- <Essential Genetics and Genomics 7th Edition> by Daniel L. Hartl, Jones & Bartlett Learning [(Access via Korea University Library (You will need a login for your student account)](https://oca.korea.ac.kr/link.n2s?url=http%3A%2F%2Fsearch.ebscohost.com%2Flogin.aspx%3Fdirect%3Dtrue%26scope%3Dsite%26db%3Dnlebk%26db%3Dnlabk%26AN%3D1923641)
+- <Genetics in Medicine 8th Edition> by Thompson & Thompson [(Access via Korea University Library (You will need a login for your student account)](http://eds.b.ebscohost.com.ssl.oca.korea.ac.kr/eds/detail/detail?vid=0&sid=f59bed98-a33b-4a01-8b83-40fd8500bc2d%40pdc-v-sessmgr04&bdata=Jmxhbmc9a28mc2l0ZT1lZHMtbGl2ZSZzY29wZT1zaXRl#AN=edp4605106&db=edspub)
 
 # 4. Teaching & Learning Activities
 
