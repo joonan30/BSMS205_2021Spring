@@ -73,6 +73,8 @@ After successfully completing this course you should be able to:
 
 [Session 2-6. Heritability](https://docs.google.com/presentation/d/1RbueXnChI6-qXs3VaRSWLjj26MSfIvVRmr1woR1f884/edit?usp=sharing)
 
+Review Session & Exam 1
+
 ### Session 3. Mutation and Population
 
 [Session 3-1. Mutation](https://docs.google.com/presentation/d/1D3HU_lb2R7Tqib-wQDtcBho0b83al_AVL_pcpGuOPZ0/edit?usp=sharing)
@@ -85,6 +87,8 @@ After successfully completing this course you should be able to:
 
 [Session 3-5. Inbreeding]
 
+Review Session & Exam 2
+
 
 ### Session 4. Human Genome 
 
@@ -96,6 +100,8 @@ After successfully completing this course you should be able to:
 
 [Session 4-4. Data modality2]
 
+Review Session & Exam 3
+
 ### Session 5. Genetics in human diseases 
 
 [Session 5-1. Genetic architecture]
@@ -104,14 +110,9 @@ After successfully completing this course you should be able to:
 
 [Session 5-3. Experimental design]
 
-Session 5-4. Case study 1 & 2 
+[Session 5-4. Case study 1 & 2 ]
 
-
-### Final exam preparation
-
-Review Session 4 & 5 
-
-Final exam [(questions)]
+Review Session & Exam 4
 
 
 # 5. Misc
