@@ -54,10 +54,10 @@ After successfully completing this course you should be able to:
 
 # 4. Teaching & Learning Activities
 
-
 ### Session 1. Introduction 
 
 [Session 1. Introduction]
+
 
 ### Session 2. Human Heredity and Inheritance 
 
@@ -73,7 +73,10 @@ After successfully completing this course you should be able to:
 
 [Session 2-6. Heritability](https://docs.google.com/presentation/d/1RbueXnChI6-qXs3VaRSWLjj26MSfIvVRmr1woR1f884/edit?usp=sharing)
 
-Review Session & Exam 1
+Review Session & QnA
+
+Exam
+
 
 ### Session 3. Mutation and Population
 
@@ -83,11 +86,13 @@ Review Session & Exam 1
 
 [Session 3-3. Linkage disequilibrium and haplotype](https://docs.google.com/presentation/d/1aoMFtDiMFvVmTCkxcPRg9b4Wo_2ynQER9DGRKslsHlY/edit?usp=sharing)
 
-[Session 3-4. Population structure]
+[Session 3-4. Population structure](https://docs.google.com/presentation/d/1rNA7NMrjlbuLVsu52EoMCXDKX9w0HM9WcznIDs9MDq0/edit?usp=sharing)
 
 [Session 3-5. Inbreeding]
 
-Review Session & Exam 2
+Review Session & QnA
+
+Exam
 
 
 ### Session 4. Human Genome 
@@ -100,7 +105,10 @@ Review Session & Exam 2
 
 [Session 4-4. Data modality2]
 
-Review Session & Exam 3
+Review Session & QnA
+
+Exam
+
 
 ### Session 5. Genetics in human diseases 
 
@@ -112,20 +120,17 @@ Review Session & Exam 3
 
 [Session 5-4. Case study 1 & 2 ]
 
-Review Session & Exam 4
+Review Session & QnA
+
+Exam
 
 
 # 5. Misc
 
-Mid term exam 
+You can find previous years' mid term exam papers
 ([questions](https://docs.google.com/document/d/1SBrnTt_cbxD_zVLHUZzfAIlW8CXLqAVrPU1nTLwpc9c/edit?usp=sharing),
-[format](https://docs.google.com/presentation/d/1fETf5FOBBD75fGQs66k9tDiZlaBbaL5zh_ph9FiyiEs/edit?usp=sharing))
+[format](https://docs.google.com/presentation/d/1fETf5FOBBD75fGQs66k9tDiZlaBbaL5zh_ph9FiyiEs/edit?usp=sharing)) and final exam papers[(questions)](https://docs.google.com/document/d/1VaCC9sKGd3oQkCU8B8rkPwLs3d4NG09EmVOuu99eE3I/edit?usp=sharing)
 
-Final exam [(questions)](https://docs.google.com/document/d/1VaCC9sKGd3oQkCU8B8rkPwLs3d4NG09EmVOuu99eE3I/edit?usp=sharing)
-
-[Written Assignment on latest genetic studies (due 17th May)](https://docs.google.com/document/d/1kgE9Qfi0moSKGuwI8a1J-weHqmV086ez2sbwTODtkfg/edit?usp=sharing)
-
-This [link 'Writing, citing and submitting assignments'](https://web.library.uq.edu.au/research-tools-techniques/assignment-essentials/writing-citing-and-submitting-assignments) would be useful for your assignment preparation. Please have a read on the following sections - 1. Writing or creating assignments, 2. Plagiarism, 3. Referencing.
 
 
 
