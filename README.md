@@ -56,7 +56,7 @@ After successfully completing this course you should be able to:
 
 ### Session 1. Introduction 
 
-[Session 1. Introduction]
+[Session 1. Introduction](https://docs.google.com/presentation/d/1nzKG3PIKfAO0R0ey1BXtMGEcvwIVBlZfXViZvzLGRkc/edit?usp=sharing)
 
 
 ### Session 2. Human Heredity and Inheritance 
