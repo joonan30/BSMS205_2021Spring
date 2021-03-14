@@ -61,21 +61,21 @@ After successfully completing this course you should be able to:
 
 ### Session 2. Human Heredity and Inheritance 
 
-[Session 2-1. Mendelian Genetics](https://docs.google.com/presentation/d/1tEW_04VI9SXdT6WLgStrNhzf6JkNj9Lq_gP85cXtCv0/edit?usp=sharing)
+[Session 2-1. Mendelian Genetics (3/8)](https://docs.google.com/presentation/d/1tEW_04VI9SXdT6WLgStrNhzf6JkNj9Lq_gP85cXtCv0/edit?usp=sharing)
 
-[Session 2-2. Biometrical Genetics](https://docs.google.com/presentation/d/1u-e-ytC5tHonohRTwuHQXzwJbmqH0dFJn6edTV0QcHQ/edit?usp=sharing)
+[Session 2-2. Biometrical Genetics (3/10)](https://docs.google.com/presentation/d/1u-e-ytC5tHonohRTwuHQXzwJbmqH0dFJn6edTV0QcHQ/edit?usp=sharing)
 
-[Session 2-3. Hardy Weinberg Equilibrium](https://docs.google.com/presentation/d/1o0hjI4So1NP1M0LkZ8h1TH9Sul3BhcqnuFNM08e5JoQ/edit?usp=sharing)
+[Session 2-3. Hardy Weinberg Equilibrium (3/15)](https://docs.google.com/presentation/d/1o0hjI4So1NP1M0LkZ8h1TH9Sul3BhcqnuFNM08e5JoQ/edit?usp=sharing)
 
-[Session 2-4. Chromosome and Sex](https://docs.google.com/presentation/d/1Bql_RaWuhyA3-qxN7ptd1gxYHXrPTSNFMzIU36BqscA/edit?usp=sharing)
+[Session 2-4. Chromosome and Sex (3/17)](https://docs.google.com/presentation/d/1Bql_RaWuhyA3-qxN7ptd1gxYHXrPTSNFMzIU36BqscA/edit?usp=sharing)
 
-[Session 2-5. Gene](https://docs.google.com/presentation/d/1tQ31wSuqBeagauwaHGDS1ofnN3vQeq3dSujRpfxsUr0/edit?usp=sharing)
+[Session 2-5. Gene (3/22)](https://docs.google.com/presentation/d/1tQ31wSuqBeagauwaHGDS1ofnN3vQeq3dSujRpfxsUr0/edit?usp=sharing)
 
-[Session 2-6. Heritability](https://docs.google.com/presentation/d/1RbueXnChI6-qXs3VaRSWLjj26MSfIvVRmr1woR1f884/edit?usp=sharing)
+[Session 2-6. Heritability (3/24)](https://docs.google.com/presentation/d/1RbueXnChI6-qXs3VaRSWLjj26MSfIvVRmr1woR1f884/edit?usp=sharing)
 
-Review Session & QnA
+Review Session & QnA (3/29)
 
-Exam
+Exam (3/31)
 
 
 ### Session 3. Mutation and Population
