@@ -97,7 +97,7 @@ Exam (4/28)
 
 ### Session 4. Human Genome 
 
-[Session 4-1. Genome]
+[Session 4-1. Genome](https://docs.google.com/presentation/d/1gweBoSrRoegoeoBW5yx4D4NJLxk8MNKKlJz8aqBjssA/edit?usp=sharing)
 
 [Session 4-2. Next generation sequencing]
 
