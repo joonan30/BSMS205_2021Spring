@@ -88,7 +88,7 @@ Exam (3/31)
 
 [Session 3-4. Population structure](https://docs.google.com/presentation/d/1rNA7NMrjlbuLVsu52EoMCXDKX9w0HM9WcznIDs9MDq0/edit?usp=sharing)
 
-[Session 3-5. Inbreeding]
+[Session 3-5. Inbreeding](https://docs.google.com/presentation/d/1-Yfdf-VHaQ2YA299PipwPgRDdegtYYaKeFZJsfIXpyY/edit?usp=sharing)
 
 Review Session & QnA
 
