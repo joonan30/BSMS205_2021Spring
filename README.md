@@ -80,19 +80,19 @@ Exam (3/31)
 
 ### Session 3. Mutation and Population
 
-[Session 3-1. Mutation](https://docs.google.com/presentation/d/1D3HU_lb2R7Tqib-wQDtcBho0b83al_AVL_pcpGuOPZ0/edit?usp=sharing)
+[Session 3-1. Mutation (4/7)](https://docs.google.com/presentation/d/1D3HU_lb2R7Tqib-wQDtcBho0b83al_AVL_pcpGuOPZ0/edit?usp=sharing)
 
-[Session 3-2. Mutation Classification](https://docs.google.com/presentation/d/1LMk_7ShJuK04z_Erh-RhsWyib6Twxp1-CqEC_5EHhc0/edit?usp=sharing)
+[Session 3-2. Mutation Classification (4/12)](https://docs.google.com/presentation/d/1LMk_7ShJuK04z_Erh-RhsWyib6Twxp1-CqEC_5EHhc0/edit?usp=sharing)
 
-[Session 3-3. Linkage disequilibrium and haplotype](https://docs.google.com/presentation/d/1aoMFtDiMFvVmTCkxcPRg9b4Wo_2ynQER9DGRKslsHlY/edit?usp=sharing)
+[Session 3-3. Linkage disequilibrium and haplotype (4/14)](https://docs.google.com/presentation/d/1aoMFtDiMFvVmTCkxcPRg9b4Wo_2ynQER9DGRKslsHlY/edit?usp=sharing)
 
-[Session 3-4. Population structure](https://docs.google.com/presentation/d/1rNA7NMrjlbuLVsu52EoMCXDKX9w0HM9WcznIDs9MDq0/edit?usp=sharing)
+[Session 3-4. Population structure (4/19)](https://docs.google.com/presentation/d/1rNA7NMrjlbuLVsu52EoMCXDKX9w0HM9WcznIDs9MDq0/edit?usp=sharing)
 
-[Session 3-5. Inbreeding](https://docs.google.com/presentation/d/1-Yfdf-VHaQ2YA299PipwPgRDdegtYYaKeFZJsfIXpyY/edit?usp=sharing)
+[Session 3-5. Inbreeding (4/21)](https://docs.google.com/presentation/d/1-Yfdf-VHaQ2YA299PipwPgRDdegtYYaKeFZJsfIXpyY/edit?usp=sharing)
 
-Review Session & QnA
+Review Session & QnA (4/26)
 
-Exam
+Exam (4/28)
 
 
 ### Session 4. Human Genome 
