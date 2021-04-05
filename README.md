@@ -80,7 +80,7 @@ Exam (3/31)
 
 ### Session 3. Mutation and Population
 
-[Session 3-1. Mutation (4/7)](https://docs.google.com/presentation/d/1D3HU_lb2R7Tqib-wQDtcBho0b83al_AVL_pcpGuOPZ0/edit?usp=sharing)
+[Session 3-1. Mutation (4/5, 4/7)](https://docs.google.com/presentation/d/1D3HU_lb2R7Tqib-wQDtcBho0b83al_AVL_pcpGuOPZ0/edit?usp=sharing)
 
 [Session 3-2. Mutation Classification (4/12)](https://docs.google.com/presentation/d/1LMk_7ShJuK04z_Erh-RhsWyib6Twxp1-CqEC_5EHhc0/edit?usp=sharing)
 
