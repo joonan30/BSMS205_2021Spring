@@ -99,11 +99,11 @@ Exam (4/28)
 
 [Session 4-1. Genome](https://docs.google.com/presentation/d/1gweBoSrRoegoeoBW5yx4D4NJLxk8MNKKlJz8aqBjssA/edit?usp=sharing)
 
-[Session 4-2. Next generation sequencing]
+[Session 4-2. Next generation sequencing](https://docs.google.com/presentation/d/12ioYn9M-IytQJCurEPWGMMA8XMQ3m7ns_UDgFMJISvI/edit?usp=sharing)
 
-[Session 4-3. Data modality1]
+[Session 4-3. Data modality1](https://docs.google.com/presentation/d/1D3TENJ5M5oTzO6WY0vX4TSmV4rnmS7Ql2M6taMxpXDo/edit?usp=sharing)
 
-[Session 4-4. Data modality2]
+[Session 4-4. Data modality2](https://docs.google.com/presentation/d/1RBr8JdBAsXo1P2VdNuYITaRAZ2BBQouRnbV7LQN1ezo/edit?usp=sharing)
 
 Review Session & QnA
 
@@ -112,11 +112,11 @@ Exam
 
 ### Session 5. Genetics in human diseases 
 
-[Session 5-1. Genetic architecture]
+[Session 5-1. Genetic architecture](https://docs.google.com/presentation/d/1qAfNT0yZ3Snkb5zArz_1dgfp25zDMJo8il9qFeiUw2g/edit?usp=sharing)
 
-[Session 5-2. Genetic disorders]
+[Session 5-2. Genetic disorders](https://docs.google.com/presentation/d/1ScpY7icZct9p-FusROiC0Q-7tc81pO2XenQLJrRo5oA/edit?usp=sharing)
 
-[Session 5-3. Experimental design]
+[Session 5-3. Experimental design](https://docs.google.com/presentation/d/1n6r414HUejA0McChJC0ZmsZoH5DfHlWo5D_-Mdi-8yU/edit?usp=sharing)
 
 [Session 5-4. Case study 1 & 2 ]
 
