@@ -97,17 +97,17 @@ Exam (4/28)
 
 ### Session 4. Human Genome 
 
-[Session 4-1. Genome](https://docs.google.com/presentation/d/1gweBoSrRoegoeoBW5yx4D4NJLxk8MNKKlJz8aqBjssA/edit?usp=sharing)
+[Session 4-1. Genome(5/3)](https://docs.google.com/presentation/d/1gweBoSrRoegoeoBW5yx4D4NJLxk8MNKKlJz8aqBjssA/edit?usp=sharing)
 
-[Session 4-2. Next generation sequencing](https://docs.google.com/presentation/d/12ioYn9M-IytQJCurEPWGMMA8XMQ3m7ns_UDgFMJISvI/edit?usp=sharing)
+[Session 4-2. Next generation sequencing(5/10)](https://docs.google.com/presentation/d/12ioYn9M-IytQJCurEPWGMMA8XMQ3m7ns_UDgFMJISvI/edit?usp=sharing)
 
-[Session 4-3. Data modality1](https://docs.google.com/presentation/d/1D3TENJ5M5oTzO6WY0vX4TSmV4rnmS7Ql2M6taMxpXDo/edit?usp=sharing)
+[Session 4-3. Data modality1(5/17)](https://docs.google.com/presentation/d/1D3TENJ5M5oTzO6WY0vX4TSmV4rnmS7Ql2M6taMxpXDo/edit?usp=sharing)
 
-[Session 4-4. Data modality2](https://docs.google.com/presentation/d/1RBr8JdBAsXo1P2VdNuYITaRAZ2BBQouRnbV7LQN1ezo/edit?usp=sharing)
+[Session 4-4. Data modality2(5/24, 5/26)](https://docs.google.com/presentation/d/1RBr8JdBAsXo1P2VdNuYITaRAZ2BBQouRnbV7LQN1ezo/edit?usp=sharing)
 
-Review Session & QnA
+Review Session & QnA (5/31)
 
-Exam
+Exam (6/2)
 
 
 ### Session 5. Genetics in human diseases 
