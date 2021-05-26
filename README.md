@@ -114,12 +114,11 @@ Exam (6/2)
 
 [Session 5-1. Genetic architecture (6/7, 6/9)](https://docs.google.com/presentation/d/1qAfNT0yZ3Snkb5zArz_1dgfp25zDMJo8il9qFeiUw2g/edit?usp=sharing)
 
-[Session 5-2. Experimental design (6/9, 6/14]
+[Session 5-2. Experimental design (6/9, 6/14](https://docs.google.com/presentation/d/1BZUBz69HhtR9DH70IFpEjY6uOAOiYFTdKx8f0ilZbdQ/edit?usp=sharing)
 
+Review Session & QnA (6/14)
 
-Review Session & QnA
-
-Exam
+Exam (6/19)
 
 
 # 5. Misc
