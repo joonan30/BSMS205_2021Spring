@@ -112,13 +112,10 @@ Exam (6/2)
 
 ### Session 5. Genetics in human diseases 
 
-[Session 5-1. Genetic architecture](https://docs.google.com/presentation/d/1qAfNT0yZ3Snkb5zArz_1dgfp25zDMJo8il9qFeiUw2g/edit?usp=sharing)
+[Session 5-1. Genetic architecture (6/7, 6/9)](https://docs.google.com/presentation/d/1qAfNT0yZ3Snkb5zArz_1dgfp25zDMJo8il9qFeiUw2g/edit?usp=sharing)
 
-[Session 5-2. Genetic disorders](https://docs.google.com/presentation/d/1ScpY7icZct9p-FusROiC0Q-7tc81pO2XenQLJrRo5oA/edit?usp=sharing)
+[Session 5-2. Experimental design (6/9, 6/14]
 
-[Session 5-3. Experimental design](https://docs.google.com/presentation/d/1n6r414HUejA0McChJC0ZmsZoH5DfHlWo5D_-Mdi-8yU/edit?usp=sharing)
-
-[Session 5-4. Case study 1 & 2 ]
 
 Review Session & QnA
 
