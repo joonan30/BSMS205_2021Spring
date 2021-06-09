@@ -116,9 +116,9 @@ Exam (6/2)
 
 [Session 5-2. Experimental design (6/9)](https://docs.google.com/presentation/d/1BZUBz69HhtR9DH70IFpEjY6uOAOiYFTdKx8f0ilZbdQ/edit?usp=sharing)
 
-Review Session & QnA (6/14)
+QnA will be on Slack as Exam period
 
-Exam (6/19)
+Exam (6/21)
 
 
 # 5. Misc
